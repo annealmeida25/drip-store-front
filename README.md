@@ -8,8 +8,6 @@
 
 </div>
 
-Um projeto educacional desenvolvido com as tecnologias mais modernas do mercado para o curso de **Desenvolvimento Web Full Stack** do programa Geração Tech 2.0.
-
 ## 👥 Autores
 - Anne Almeida | [@annealmeida25](https://www.github.com/annealmeida25)
 - Angelo Queiroz | [@angeloqs](https://www.github.com/angeloqs)
